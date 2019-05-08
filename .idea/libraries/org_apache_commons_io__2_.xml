@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.commons.io (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/poi-4.0.1/org.apache.commons.io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

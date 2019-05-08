@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/535_Certification_Project_codes(1)/revinfotech/src/TestCase/TestFlow.java">
+        <classes><class name="TestCase.TestFlow">
+            <methods>
+                <include name="Home"/>
+                <include name="ChangeColor"/>
+                <include name="Checkout"/>
+                <include name="AllDetails"/>
+                <include name="CardDetails"/>
+            </methods>
+        </class>
+        </classes></test></suite>
